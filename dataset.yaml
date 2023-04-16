@@ -1,0 +1,9 @@
+
+#path: ../datasets/coco128  # dataset root dir
+train: /content/data/images/train  # train images 
+val: /content/data/images/val # 
+# test:  # test images (optional)
+
+# Classes
+nc: 2  # number of classes
+names: ['Superman' , 'batman']  # class names
